@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ClickTixPY", "ClickTixPY\ClickTixPY.pyproj", "{703E98A1-724D-4EC9-AA91-B6B471A60B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703E98A1-724D-4EC9-AA91-B6B471A60B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E98A1-724D-4EC9-AA91-B6B471A60B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C14D333-479F-4A48-801C-6447B70AE34D}
+	EndGlobalSection
+EndGlobal
